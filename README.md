@@ -65,29 +65,37 @@ The application uses a **Model-View-Controller (MVC)** design to ensure a clean 
 
 ### Doctor's Portal
 * **Dashboard**
-  
+  <img width="2639" height="1186" alt="DocDashboard" src="https://github.com/user-attachments/assets/15e18720-3e73-4412-b44c-88e151e0b5fc" />
+
 * **Appointment Management**
+  <img width="1920" height="868" alt="DocAppointments" src="https://github.com/user-attachments/assets/7fc10afb-f93d-4706-a9c0-ae02de4921db" />
   
 * **Shift Schedule**
-
+<img width="1920" height="870" alt="DocShifts" src="https://github.com/user-attachments/assets/d6a3fb08-3417-44c0-942e-3f3d1266cf48" />
 
 ### Admin's Portal
 * **Dashboard**
-  
+  <img width="2677" height="1212" alt="AdminDashboard" src="https://github.com/user-attachments/assets/c22b26fc-4cf8-47c2-96d4-95ce563a59eb" />
+
 * **Doctor Management**
-  
+  <img width="1973" height="1007" alt="AdminManageDoctors" src="https://github.com/user-attachments/assets/a2296b96-0820-4543-86ce-48b1a2e08666" />
+
 * **Approve Requests**
+<img width="1999" height="993" alt="AdminManageRequests" src="https://github.com/user-attachments/assets/1ca93d19-92c3-4547-b34c-3a7c1bddded0" />
 
 
 ### Patient's Portal
 * **Dashboard**
-  
+  <img width="2616" height="1199" alt="PatDashboard" src="https://github.com/user-attachments/assets/4891ba9b-bd19-4964-a546-55758c7df9a0" />
+
 * **Appointment Booking**
-  
+  <img width="1899" height="871" alt="PatientAppointment" src="https://github.com/user-attachments/assets/2c6cbd50-b638-49db-92e0-f7d18dbc3bb8" />
+
 * **Find Doctors**
+<img width="1899" height="867" alt="PatientDoctors" src="https://github.com/user-attachments/assets/277e868f-789d-437e-b4fd-079ce950a329" />
 
 * **Profile Management**
-  
+<img width="1920" height="876" alt="Profile" src="https://github.com/user-attachments/assets/c019b02a-81b4-48cf-b086-038c23c4dc6d" />
 
 ## Testing
 

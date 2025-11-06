@@ -61,9 +61,33 @@ The application uses a **Model-View-Controller (MVC)** design to ensure a clean 
   * **View:** Handled by the **React.js** frontend, which renders the UI and interacts with the API.
   * **Controller:** Handled by **Express.js** in the `backend/controllers` directory, which processes all business logic, handles API requests, and interacts with the database models.
 
-### Deployment Diagram
+## Interfaces
 
-### Component Diagram
+### Doctor's Portal
+* **Dashboard**
+  
+* **Appointment Management**
+  
+* **Shift Schedule**
+
+
+### Admin's Portal
+* **Dashboard**
+  
+* **Doctor Management**
+  
+* **Approve Requests**
+
+
+### Patient's Portal
+* **Dashboard**
+  
+* **Appointment Booking**
+  
+* **Find Doctors**
+
+* **Profile Management**
+  
 
 ## Testing
 

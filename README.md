@@ -165,6 +165,6 @@ Ikigai-Clinic-Appointment-Management-System/
 
 ## Project Team
 
-  * Mavra Mehak - 22I-0798
-  * Maryum Tanvir - 22I-0751
-  * Salman Khan - 22I-1285
+  * Mavra Mehak
+  * Maryum Tanvir
+  * Salman Khan
